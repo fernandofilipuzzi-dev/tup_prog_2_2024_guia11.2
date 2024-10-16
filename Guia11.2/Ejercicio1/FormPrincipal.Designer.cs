@@ -248,6 +248,7 @@
             this.Name = "FormPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ejercicio 1";
+            this.Load += new System.EventHandler(this.FormPrincipal_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();

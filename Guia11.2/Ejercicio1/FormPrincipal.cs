@@ -213,5 +213,10 @@ namespace Ejercicio1
                 }
             }
         }
+
+        private void FormPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

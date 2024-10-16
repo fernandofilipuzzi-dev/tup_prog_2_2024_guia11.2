@@ -4,7 +4,6 @@ namespace Ejercicio1.Models
 {
     abstract public class Evaluacion
     {
-
         public enum TipoAprobacion
         {
             NoAprobacion = 0, Parcial, Aprobado
