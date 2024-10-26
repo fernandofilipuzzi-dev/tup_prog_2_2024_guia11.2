@@ -1,0 +1,16 @@
+﻿Tipo:VTV; Patente; DNI; Nombre; Fecha; Fecha Vencimiento
+Tipo:TEST;Codigo; Valor
+VTV; CVS123; 45775654; Silvina; 6-12-2020
+EVA; 0; 56
+EVA; 1; 10
+EVA; 2; 0,6
+EVA; 3; 11000
+EVA; 4; 12000
+EVA; 5; 1
+VTV; APB123; 45775654; Romina; 6-6-2006
+EVA; 0; 56
+EVA; 1; 10
+EVA; 2; 0,7
+EVA; 3; 11000
+EVA; 4; 12000
+EVA; 5; 1
